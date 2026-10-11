@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Rafyal! 👋
 
-<!--
-**Rafyal/rafyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at **Universitas Jayabaya**, passionate about system-level Android development, automation, and AI tools.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🛠️ Currently developing **AutoFlash Tool**, a desktop flashing utility built with Python and CustomTkinter.
+- 📱 Deeply interested in **Android Custom ROM porting**, kernel compilation, and low-level MediaTek device recovery.
+- ⚙️ Actively building cloud compilation workflows using **GitHub Actions** for custom AOSP builds (like crDroid).
+- 🤖 Exploring AI development platforms (Google AI Studio, Project IDX) and diving into cybersecurity (OSINT).
+- ⚡ In my free time, I experiment with system optimizations (zRAM, Low Memory Killer) and hardware diagnostics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Bash/Shell
+- **Android System & Modding:** Magisk, KernelSU/APatch, mtkclient, SP Flash Tool
+- **Development & Environments:** Git, VS Code, WSL, Termux
+- **Cloud & Automation:** GitHub Actions, Google Antigravity
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true" alt="Rafyal's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/rafyal-dwi-putra](https://linkedin.com/in/rafyal-dwi-putra)
+- ✉️ **Email:** rafyal991@gmail.com
+  
