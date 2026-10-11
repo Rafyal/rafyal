@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyouken&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Rafyal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyouken&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafyal&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Rafyal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafyal&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 
